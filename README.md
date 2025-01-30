@@ -1,4 +1,4 @@
-<h2 align="center">Olá 👋 me chamo Nícolas, tenho 15 anos e comecei neste mês de setembro a programação.</h2>
+<h2 align="center"Programmer focused on creative and efficient solutions, always seeking continuous improvement..</h2>
 
 ###
 
