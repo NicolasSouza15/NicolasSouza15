@@ -5,7 +5,7 @@
 - 🌱 Atualmente estou aprendendo python.
 - 👯 Estou procurando colaborar em projetos próprios
 - 🤔 Estou procurando ajuda com python
-- 📫 Como entrar em contato comigo: pelo gmail:  <a href = "naturaldesigner23@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+- 📫 Como entrar em contato comigo: pelo gmail: naturaldesigner23@gmail.com
 - ⚡ Curiosidade: Sou flexivel e tenho a capacidade de aprender com agilidade e eficiência.
 
  ## Cursos
